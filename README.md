@@ -7,6 +7,7 @@ Attending the program is totally **free of charge**. Organizers and instructors 
 
 ## Prerequisites for Participation
 
+* Only women developers can participate.
 * All attendees should be a developer, i.e. actively programming in daily work. 
 * Even though we have no constraints for undergraduates, we prefer at least 1 year of development experience to get the most benefit from the program.
 * We have no limitations for programming language or business domain for participation.
@@ -74,7 +75,11 @@ Meetups will happen at **Craftbase's office at Nidakule Göztepe**. Check where 
 ## Sponsors
 
 Location sponsor of the program is **[Craftbase](https://craftbase.io)**.
-Food and Logistics sponsors will be announced soon.
+Food, Logistics and Gift sponsors will be announced soon.
+
+## Supporter Communities
+
+Supporter communities will be announced soon.
 
 ## Contact
 
