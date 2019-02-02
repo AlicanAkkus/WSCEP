@@ -1,4 +1,5 @@
 # Women Software Crafters Education Program, Season 1
+**This program is designed by developers for developers**
 
 This program is designed and organized by [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/), by the hard work of the organizers [Erkan Erol](https://www.linkedin.com/in/erkanerol/), [Aykut Bulgu](https://www.linkedin.com/in/mabulgu/) and [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan/).
 
@@ -55,9 +56,13 @@ Every meetup takes 2 hours at most, i.e. between 19:00 and 21:00.
 
 At the end of the last meetup, we will deliver "**Certification of Attendance**" to the participants for whom completes 8 out of 10 meetups minimum. 
 
+## Assignments 
+
+At the end of each meetup, a simple task will be assigned to you for experiencing the topics we covered.
+
 ## Language
 
-All slides and materials are English, but the instructors will speak in Turkish.
+All slides and materials are English, but the instructors will speak in **Turkish**.
 
 ### Location
 
