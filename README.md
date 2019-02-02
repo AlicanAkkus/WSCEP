@@ -5,13 +5,13 @@ This program is designed and organized by [Software Craftsmanship Turkey](https:
 
 All meetups are totally **free of charge**. Organizers and instructors are volunteers and all logistics are provided by sponsors.
 
-### Prerequisites for Participation
+## Prerequisites for Participation
 
 * All attendees should be a developer, i.e. actively programming in daily work. 
 * Even though we have no constraints for undergraduates, we prefer at least 1 year of development experience to get the most benefit from the program.
 * We have no limitations for programming language or business domain for participation.
 
-### Registration
+## Registration
 
 Please submit the [WSCEP01 Registration Form](http://google.com) for pre-registration. 
 
@@ -25,19 +25,17 @@ We collect pre-registrations till 25th of Feb regardless of capacity limit. Then
 
 On first of March, all attendees will be announced.
 
-### Capacity
+## Capacity
 
 The program has a limit of **30 attendees**. 
 
-### Instructor
+## Speakers
 
-**Lemi Orhan Ergin**, Co-Founder of Craftbase, Founder of Software Craftsmanship Turkey
+**Lemi Orhan Ergin**, Co-Founder of Craftbase, Founder of Software Craftsmanship Turkey. [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan) is a software craftsman with a passion in raising the bar of his profession and sharing his experiences with the communities. He is the co-founder of Craftbase and Turkish Software Craftsmanship Community. He has been developing software since 2001. He worked as a developer, a technical leader, an Agile coach, An Agile Practice Lead and a trainer at Sony, eBay and iyzico before founding his own company. He is an active practitioner and trainer in Agile methodologies, Scrum, Extreme Programming and engineering practices and technologies.  
 
-[Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan) is a software craftsman with a passion in raising the bar of his profession and sharing his experiences with the communities. He is the co-founder of Craftbase and Turkish Software Craftsmanship Community. He has been developing software since 2001. He worked as a developer, a technical leader, an Agile coach, An Agile Practice Lead and a trainer at Sony, eBay and iyzico before founding his own company. He is an active practitioner and trainer in Agile methodologies, Scrum, Extreme Programming and engineering practices and technologies.  
+Special guests may join our sessions. We love surprises:)
 
-Giving back to the community is the way he lives. He has already spoke at 30+ conferences and 100+ seminars, organized 200+ meetups, created a podcast series and distributed his talks to feed his passion. His slides are viewed more than 1 million times. 
-
-### Schedule
+## Schedule
 
 | Date | Week | Topic |
 |:--- |:--- |:--- |
@@ -64,7 +62,7 @@ At the end of each meetup, a simple task will be assigned to you for experiencin
 
 All slides and materials are English, but the instructors will speak in **Turkish**.
 
-### Location
+## Location
 
 Meetups will happen at **Craftbase's office at Nidakule Göztepe**. Check where the location is from [Google Maps](https://goo.gl/maps/cfUZaPFvw7L2) or [Yandex Maps](https://yandex.com.tr/maps/-/CBR3iUcs0B)
 
@@ -73,16 +71,16 @@ Meetups will happen at **Craftbase's office at Nidakule Göztepe**. Check where 
 * **By bus or minibus:** You can use bus and minibuses passing near Medical Park Hospital. 
 * **Via car:** You can drop your car at parking area of Nidakule Göztepe.
 
-### Sponsors
+## Sponsors
 
 Location sponsor of the program is **[Craftbase](https://craftbase.io)**.
 Food and Logistics sponsors will be announced soon.
 
-### Contact
+## Contact
 
 For any questions or comments, you can contact with [info@scturkey.org](mailto:info@scturkey.org)
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 **Can I join the program after the program starts?**
 Unfortunately, you cannot join the program after it starts. 
