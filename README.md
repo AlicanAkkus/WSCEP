@@ -47,7 +47,7 @@ Special guests may join our sessions. We love surprises:)
 | Week 3  | 25.03.2018, Mon | Eliminate Waste in Software Development |
 | Week 4  | 01.04.2018, Mon | Building a Software Development Culture that Rocks! |
 | Week 5  | 08.04.2018, Mon | Pair Programming & Code Review in Depth |
-| Week 6  | 15.04.2018, Mon | Git for Crafters |
+| Week 6  | 15.04.2018, Mon | How to Use Git Like a Professional |
 | Week 7  | 22.04.2018, Mon | Clean Software Design Principles |
 | Week 8  | 29.04.2018, Mon | TDD, Automated Testing, TDD Workshop |
 | Week 9  | 11.05.2018, Sat | All-Day-Coding with Pair Programming and TDD: Code Retreat |
