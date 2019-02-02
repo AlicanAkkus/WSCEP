@@ -55,6 +55,10 @@ Every meetup takes 2 hours at most, i.e. between 19:00 and 21:00.
 
 At the end of the last meetup, we will deliver "**Certification of Attendance**" to the participants for whom completes 8 out of 10 meetups minimum. 
 
+## Language
+
+All slides and materials are English, but the instructors will speak in Turkish.
+
 ### Location
 
 Meetups will happen at **Craftbase's office at Nidakule Göztepe**. Check where the location is from [Google Maps](https://goo.gl/maps/cfUZaPFvw7L2) or [Yandex Maps](https://yandex.com.tr/maps/-/CBR3iUcs0B)
@@ -81,5 +85,11 @@ Unfortunately, you cannot join the program after it starts.
 **Should I get my laptop with me?**
 We will have 2 workshops in the program. You should get your computer with you for only those 2 workshops. For the others, it is not required.
 
-**What will happen after I complete the program?**
-Nothing happend
+**Which programming language should I know for the program?**
+Programming language you know is not important for the program.
+
+**I am not actively developing software, but I want to join. Is it possible?**
+Sorry, we are not able to accept your registration if you are not actively developing software. This program is designed for women software developers only.
+
+**I am an undergraduate. I want to be a developer and I want to join. Is it possible?**
+If you know programming and want to be a developer in your career, it is absolutely possible to join.
