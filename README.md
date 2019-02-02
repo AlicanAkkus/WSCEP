@@ -55,7 +55,7 @@ Special guests may join our sessions. We love surprises:)
 
 Every meetup takes 2 hours at most, i.e. between 19:00 and 21:00.
 
-At the end of the last meetup, we will deliver "**Certification of Attendance**" to the participants for whom completes 8 out of 10 meetups minimum. 
+At the end of the last meetup, we will deliver "**Certification of Attendance**" to the participants who completes 8 out of 10 sessions at minimum. 
 
 ## Assignments 
 
