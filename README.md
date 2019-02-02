@@ -3,6 +3,8 @@
 
 This 10-week program is designed and organized by [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/), by the hard work of the organizers [Erkan Erol](https://www.linkedin.com/in/erkanerol/), [Aykut Bulgu](https://www.linkedin.com/in/mabulgu/) and [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan/).
 
+The main aim of this program is to fix tech’s gender imbalance in Turkey.
+
 Attending the program is totally **free of charge**. Organizers and instructors are volunteers and all logistics are provided by sponsors.
 
 ## Prerequisites for Participation
