@@ -37,8 +37,6 @@ Kontenjan 30 kişi olarak belirlenmiştir.
 
 Türk yazılım topluluklarında aktif olarak yer almaktadır. Software Craftsmanship Turkey (Türk Yazılımda Ustalaşma Hareketi) topluluğunun kurucusudur. Kariyerinde açık ve kapalı 200'den fazla ücretsiz etkinlik organize etmiştir. Dünyaca kabul görmüş Disciplined Agile Manifesto, Software Craftsmanship Manifesto ve SOA Manifesto'yu Türkçeye kazandırmış, Agile Manifesto’yu Türkçeye çeviren takımda yer almıştır. Daha çok kişiye ulaşabilmek için "Lemi’nin Not Defteri” isminde bir Podcast yayınlamaktadır. 3'ü keynote olmak üzere 30’dan fazla yerli ve yabancı konferansta konuşmacı olmuştur. Sunumları internet üzerinden de 1 milyondan fazla izlenmiştir.
 
-Oturumlarımızda sürpriz konuklarımız da olacaktır:)
-
 ## Takvim
 
 | Hafta | Tarih | Konu |
