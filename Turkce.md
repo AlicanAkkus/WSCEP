@@ -13,7 +13,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 * Üniversite mezun olma kısıtlaması bulunmamaktadır. Ancak katılımcılardan aktif olarak yazılım geliştiricilik yapması beklenmektedir.
 * Programlama dili ya da iş kapsamı konularında herhangi bir kısıtlama bulunmamaktadır.
 
-## Kayıt
+## Ön Kayıt
 
 Ön kayıt için lütfen [WSCEP01 Kayıt Formu](http://google.com)nu eksiksiz doldurunuz. 
 
