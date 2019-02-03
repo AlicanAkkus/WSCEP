@@ -29,14 +29,13 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 ## Kontenjan
 
-**Kontenjan 30 kişi olarak belirlenmiştir.**
+Kontenjan 30 kişi olarak belirlenmiştir.
 
 ## Konuşmacılar
 
 [**Lemi Orhan Ergin**](https://www.linkedin.com/in/lemiorhan) 2001 senesinden bu yana aktif olarak yazılım geliştiren bir bilgisayar mühendisidir. Kariyeri boyunca onlarca kurumsal firmaya danışmanlık vermiş, eBay, Sony ve iyzico'da yazılım mimarı, yazılım ustası, teknik lider, takım lideri, teknik koordinator, Scrum Master ve agile koç olarak görev almıştır. Yazılım takımlarında yazılım kültürün kurulması, devamı ve sürdürülebilirliği konularında liderlik etmiştir. 2018 içerisinde Hakan Erdoğan ve Sabri Onur Tüzün ile birlikte Craftbase’i kurmuştur. Halen sektör için kritik öneme sahip yazılımlar geliştirmeye devam etmektedir.
 
 Türk yazılım topluluklarında aktif olarak yer almaktadır. Software Craftsmanship Turkey (Türk Yazılımda Ustalaşma Hareketi) topluluğunun kurucusudur. Kariyerinde açık ve kapalı 200'den fazla ücretsiz etkinlik organize etmiştir. Dünyaca kabul görmüş Disciplined Agile Manifesto, Software Craftsmanship Manifesto ve SOA Manifesto'yu Türkçeye kazandırmış, Agile Manifesto’yu Türkçeye çeviren takımda yer almıştır. Daha çok kişiye ulaşabilmek için "Lemi’nin Not Defteri” isminde bir Podcast yayınlamaktadır. 3'ü keynote olmak üzere 30’dan fazla yerli ve yabancı konferansta konuşmacı olmuştur. Sunumları internet üzerinden de 1 milyondan fazla izlenmiştir.
-
 
 Oturumlarımızda sürpriz konuklarımız da olacaktır:)
 
@@ -52,7 +51,7 @@ Oturumlarımızda sürpriz konuklarımız da olacaktır:)
 | Hafta 6  | 15.04.2018, Pazartesi | Profesyoneller için Git  |
 | Hafta 7  | 22.04.2018, Pazartesi | Temiz Kod Tasarım Pratikleri |
 | Hafta 8  | 29.04.2018, Pazartesi | TDD, Automated Testing, TDD Atölyesi |
-| Hafta 9  | 11.05.2018, Cumartesi | Tüm Gün TDD ve Eşli Programlama Atölyesi: Code Retreat |
+| Hafta 9  | 11.05.2018, Cumartesi | Tüm Gün Sürecek TDD ve Eşli Programlama Atölyesi: Code Retreat |
 | Hafta 10 | 20.05.2018, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları |
 
 Her hafta (dokuzuncu hafta hariç) en fazla 2 saat sürecektir. (19:00 ile 21:00 saatleri arası)
@@ -78,7 +77,7 @@ Buluşmalarımız **Craftbase'in Nidakule Göztepe 10. Kat**ındaki ofisinde ger
 
 ## Sponsorlar
 
-Mekan sponsorumuz **[Craftbase](https://craftbase.io)**dir.
+Mekan sponsorumuz [**Craftbase**](https://craftbase.io)dir.
 Yemek, hediye ve lojistik sponsorlarımız yakında duyurulacaktır.
 
 ## Destekleyen Topluluklar
