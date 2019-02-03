@@ -39,6 +39,8 @@ Türk yazılım topluluklarında aktif olarak yer almaktadır. Software Craftsma
 
 ## Takvim
 
+Etkinliklerimizde başlangıç seviyesi konulardan daha ziyade, deneyimler ile derinleşmiş daha ileri teknikler ve konuların konuşulması planlanmaktadır.
+
 | Hafta | Tarih | Konu |
 |:--- |:--- |:--- |
 | Hafta 1  | 04.03.2018, Pazartesi | Software Craftsmanship, Agile & Scrum |
