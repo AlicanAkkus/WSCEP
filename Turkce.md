@@ -56,9 +56,9 @@ Her hafta (dokuzuncu hafta hariç) en fazla 2 saat sürecektir. (19:00 ile 21:00
 
 Son hafta kapanışta, 10 haftanın asgari 8'ine katılan katılımcılara "Katılım Sertifikası" verilecektir.
 
-## Buluşma Sonrası Görevler 
+## Etkinlik Sonrası Görevler 
 
-Her hafta buluşma sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir. 
+Her hafta etkinlik sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir. 
 
 ## Etkinlik Dili
 
@@ -66,7 +66,7 @@ Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dil
 
 ## Mekan
 
-Buluşmalarımız **Craftbase'in Nidakule Göztepe 10. Kat**ındaki ofisinde gerçekleşecektir. Mekanın haritadaki yerine [Google Maps](https://goo.gl/maps/cfUZaPFvw7L2) ve [Yandex Maps](https://yandex.com.tr/maps/-/CBR3iUcs0B) üzerinden bakabilir, rota oluşturabilirsiniz.
+Etkinliklerimiz **Craftbase'in Nidakule Göztepe 10. Kat**ındaki ofisinde gerçekleşecektir. Mekanın haritadaki yerine [Google Maps](https://goo.gl/maps/cfUZaPFvw7L2) ve [Yandex Maps](https://yandex.com.tr/maps/-/CBR3iUcs0B) üzerinden bakabilir, rota oluşturabilirsiniz.
 
 * **Açık Adres:** Craftbase Bilişim Teknolojileri A.Ş., Nidakule Göztepe, Merdivenköy Mah. Bora Sk. No:1 Kat:10 Göztepe, Kadıköy.
 * **Metro ile ulaşım:** Göztepe Metro durağında inin ve Salı pazarı çıkışından çıkın. Mekan 5 dakika yürüyüş mesafesine.
