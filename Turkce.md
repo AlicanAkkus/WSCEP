@@ -8,7 +8,7 @@ Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar g
 
 ## Katılım için Koşullar
 
-* Program sektörde cinsiyet eşitliğine destek vermek adına kadın ve LGBTİ yazılımcılar için tasarlanmıştır.
+* Program sektörde cinsiyet eşitliğine destek vermek adına sadece kadın ve LGBTİ yazılımcılar için tasarlanmıştır.
 * Tüm katılımcılar gündelik iş hayatlarında aktif olarak yazılım geliştiriyor olmalıdır.
 * Üniversite mezun olma kısıtlaması bulunmamaktadır. Ancak katılımcılardan aktif olarak yazılım geliştiricilik yapması beklenmektedir.
 * Programlama dili ya da iş kapsamı konularında herhangi bir kısıtlama bulunmamaktadır.
@@ -64,7 +64,7 @@ Her hafta buluşma sonrası, katılımcılardan çalıştıkları ekiplerde uygu
 
 ## Etkinlik Dili
 
-Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dili TÜrkçedir**.
+Tüm yansılar ve materyaller İngilizce oluşturulmuştur, ancak **konuşma dili Türkçedir**.
 
 ## Mekan
 
