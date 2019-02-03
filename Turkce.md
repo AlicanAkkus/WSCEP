@@ -1,6 +1,6 @@
 # SCTurkey Kadın Yazılımcı Destekleme Programı, Sezon 1
 
-10 hafta sürecek olan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından, organizatörler [Erkan Erol](https://www.linkedin.com/in/erkanerol/), [Aykut Bulgu](https://www.linkedin.com/in/mabulgu/) ve [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan/)'in yoğun çalışmaları sonucunda hayat bulmuştur. 
+10 hafta sürecek olan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından düzenlenmektedir. 
 
 Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırmak, yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır. 
 
