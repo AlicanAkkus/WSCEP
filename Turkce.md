@@ -53,7 +53,7 @@ Oturumlarımızda sürpriz konuklarımız da olacaktır:)
 | Hafta 7  | 22.04.2018, Pazartesi | Temiz Kod Tasarım Pratikleri |
 | Hafta 8  | 29.04.2018, Pazartesi | TDD, Automated Testing, TDD Atölyesi |
 | Hafta 9  | 11.05.2018, Cumartesi | Tüm Gün TDD ve Eşli Programlama Atölyesi: Code Retreat |
-| Hafta 10 | 20.05.2018, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İp Uçları |
+| Hafta 10 | 20.05.2018, Pazartesi | Yazılımcılar için Topluluk Önünde Konuşma ve Sunum Hazırlamanın İpuçları |
 
 Her hafta (dokuzuncu hafta hariç) en fazla 2 saat sürecektir. (19:00 ile 21:00 saatleri arası)
 
