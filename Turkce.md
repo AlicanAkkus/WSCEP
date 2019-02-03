@@ -2,13 +2,13 @@
 
 10 hafta sürecek olan bu program [Software Craftsmanship Turkey](https://www.meetup.com/Software-Craftsmanship-Turkey/) tarafından, organizatörler [Erkan Erol](https://www.linkedin.com/in/erkanerol/), [Aykut Bulgu](https://www.linkedin.com/in/mabulgu/) ve [Lemi Orhan Ergin](https://www.linkedin.com/in/lemiorhan/)'in yoğun çalışmaları sonucunda hayat bulmuştur. 
 
-Programın ana amacı kadın yazılımcıların teknik ve teknik olmayan alanlarda gelişmelerini sağlamak, yazılım sektöründe aranan yazılımcılar arasında yer bulmalarına destek olmaktır. 
+Programın ana amacı, erkek egemen sektörümüzde kadın yazılımcıların mesleki gelişmelerini arttırmak, yazılım sektöründe aranan örnek yazılımcılar arasında yer bulmalarına destek olmaktır. 
 
 Programa katılım tamamen **ücretsizdir**. Organizatörler ve konuşmacılar gönüllü olarak yer almaktadır. Tüm lojistik sponsorlar tarafından karşılanmaktadır. 
 
 ## Katılım için Koşullar
 
-* Program sektörde cinsiyet eşitliğine destek vermek adına sadece kadın ve LGBTİ yazılımcılar için tasarlanmıştır.
+* Program sadece kadın ve LGBTİ yazılımcılar için tasarlanmıştır.
 * Tüm katılımcılar gündelik iş hayatlarında aktif olarak yazılım geliştiriyor olmalıdır.
 * Üniversite mezun olma kısıtlaması bulunmamaktadır. Ancak katılımcılardan aktif olarak yazılım geliştiricilik yapması beklenmektedir.
 * Programlama dili ya da iş kapsamı konularında herhangi bir kısıtlama bulunmamaktadır.
@@ -60,7 +60,7 @@ Son hafta kapanışta, 10 haftanın asgari 8'ine katılan katılımcılara "Kat�
 
 ## Buluşma Sonrası Görevler 
 
-Her hafta buluşma sonrası, katılımcılardan çalıştıkları ekiplerde uygulamaları için bazı görevler verilecektir. 
+Her hafta buluşma sonrası, katılımcılardan çalıştıkları ekiplerde rahatça uygulayabilecekleri bazı görevler verilecektir. 
 
 ## Etkinlik Dili
 
